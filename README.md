@@ -4,9 +4,11 @@
 <img width="1774" height="887" alt="lepo-unicamp-pvlib-modeling-course-logo" src="https://github.com/user-attachments/assets/842840e3-4df4-43db-9bea-edc237c1aef6" />
 
 
-Hello, this is the repository of codes presented in the discipline IT306 - Photovoltaic Systems, at FEEC-Unicamp, taught by Professors Dr. João Lucas, Dr. Gustavo, and Dr. Tárcio.
+Hello, this is the repository of codes presented in the discipline IT306 - Photovoltaic Systems, at FEEC-Unicamp, taught by Professors Dr. João Lucas, Dr. Gustavo, and Dr. Tárcio. 
 
 The course is part of the postgraduate program (Masters and Doctorate) of FEEC-UNICAMP. This is the 2025 version of the repository which may be updated.
+
+The source material is in Portuguese. 
 
 Collaborating Students: Msc. João Frederico
 
@@ -30,8 +32,6 @@ Our websites:
 ## Observations:
 
 Many of the developed codes are adjusted using AI, including ChatGPT. We encourage the use of AI for learning and studying the codes, as long as students incorporate their own ideas.
-
-In addition, the source material is in Portuguese.
 
 <div align="center">
   <img width="487" alt="Captura de Tela 2025-03-21 às 09 34 00" src="https://github.com/user-attachments/assets/19cf689c-5fa1-489f-9a02-fb8cc55e7565" />
