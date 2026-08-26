@@ -1,4 +1,8 @@
-# IT306_Photovoltaic_System
+# Photovoltaic Modeling Fundamentals with pvlib — Graduate Program in Electrical and Computer Engineering, Unicamp
+
+
+<img width="1774" height="887" alt="lepo-unicamp-pvlib-modeling-course-logo" src="https://github.com/user-attachments/assets/842840e3-4df4-43db-9bea-edc237c1aef6" />
+
 
 Hello, this is the repository of codes presented in the discipline IT306 - Photovoltaic Systems, at FEEC-Unicamp, taught by Professors Dr. João Lucas, Dr. Gustavo, and Dr. Tárcio.
 
