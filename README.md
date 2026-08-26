@@ -19,6 +19,10 @@ We offer testing and certification of photovoltaic modules and inverters, resear
  
 LESF-MV is one of the laboratories designated in Brazil by INMETRO (official national certification body) for testing photovoltaic modules and inverters.
 
+Our websites:
+- LESF-MV:https://www.lesfmv.com/
+- LEPO: https://www.lepounicamp.com/en
+
 ## Observations:
 
 Many of the developed codes are adjusted using AI, including ChatGPT. We encourage the use of AI for learning and studying the codes, as long as students incorporate their own ideas.
