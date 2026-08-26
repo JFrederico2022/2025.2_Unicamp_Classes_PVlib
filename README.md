@@ -4,7 +4,7 @@ Hello, this is the repository of codes presented in the discipline IT306 - Photo
 
 The course is part of the postgraduate program (Masters and Doctorate) of FEEC-UNICAMP. This is the 2025 version of the repository which may be updated.
 
-Collaborating Students: Mr. João Frederico
+Collaborating Students: Msc. João Frederico
 
 ## We are Members of LESF-MV:
 
